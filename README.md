@@ -11,3 +11,12 @@ Feedback on correct and incorrect guesses
 Visual representation of remaining tries
 Requirements
 Python 3.x
+Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+License
+This project is licensed under the MIT License.
+
+Acknowledgements
+Inspired by the classic Hangman game.
+Developed as a simple project to demonstrate basic Python programming concepts.
